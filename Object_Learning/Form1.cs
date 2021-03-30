@@ -22,6 +22,8 @@ namespace Object_Learning
         GMapOverlay overlay = new GMapOverlay("Name of overlay");
         // Create dict
         Dictionary<GMapMarker, MarkerDetail> markers = new Dictionary< GMapMarker, MarkerDetail>();
+        // Bool
+        public bool isUpdate = false;
 
 
         public Form1()
@@ -53,6 +55,7 @@ namespace Object_Learning
 
         private void mainMap_MouseClick(object sender, MouseEventArgs e)
         {
+            isUpdate = false;
             // MouseEventArgs is event args for MouseButton
 
             PointLatLng point = mainMap.FromLocalToLatLng(e.X, e.Y);
@@ -60,10 +63,8 @@ namespace Object_Learning
             // Mouse click event ( Form 1 )
             if (e.Button == MouseButtons.Left)
             {
-
                 txtLat.Text = point.Lat.ToString();
                 txtLng.Text = point.Lng.ToString();
-
             }
         }
 
@@ -84,9 +85,9 @@ namespace Object_Learning
             detail.name = txtName.Text;
             markers.Add(marker, detail);
 
-            //marker.Tag = txtName.Text;
-            //marker.ToolTipText = marker.Tag.ToString();
-            //marker.ToolTipMode = MarkerTooltipMode.OnMouseOver;
+            marker.Tag = detail.name;
+            marker.ToolTipText = marker.Tag.ToString();
+            marker.ToolTipMode = MarkerTooltipMode.OnMouseOver;
 
             overlay.Markers.Add(marker);
             txtLat.Text = "";
@@ -97,6 +98,7 @@ namespace Object_Learning
 
         private void mainMap_OnMarkerClick(GMapMarker item, MouseEventArgs e)
         {
+            isUpdate = true;
             // Do not ness
             PointLatLng point = item.Position;
 

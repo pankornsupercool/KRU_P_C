@@ -27,3 +27,32 @@ C:\Users\RWS\source\repos\Object_Learning\Object_Learning\obj\Debug\Object_Learn
 C:\Users\RWS\source\repos\Object_Learning\Object_Learning\obj\Debug\Object_Learning.exe
 C:\Users\RWS\source\repos\Object_Learning\Object_Learning\obj\Debug\Object_Learning.pdb
 C:\Users\RWS\source\repos\Object_Learning\Object_Learning\obj\Debug\Object_Learning.UserControl1.resources
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\Object_Learning.exe.config
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\Object_Learning.exe
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\Object_Learning.pdb
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\EntityFramework.dll
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\EntityFramework.SqlServer.dll
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\GMap.NET.Core.dll
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\GMap.NET.WindowsForms.dll
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\Newtonsoft.Json.dll
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\System.Data.SqlClient.dll
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\System.Data.SQLite.dll
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\System.Data.SQLite.EF6.dll
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\System.Data.SQLite.Linq.dll
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\System.Security.Principal.Windows.dll
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\EntityFramework.xml
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\EntityFramework.SqlServer.xml
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\Newtonsoft.Json.xml
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\System.Data.SqlClient.xml
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\System.Data.SQLite.xml
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\bin\Debug\System.Security.Principal.Windows.xml
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\obj\Debug\Object_Learning.csprojAssemblyReference.cache
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\obj\Debug\Object_Learning.Form1.resources
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\obj\Debug\Object_Learning.Properties.Resources.resources
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\obj\Debug\Object_Learning.UserControl1.resources
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\obj\Debug\Object_Learning.csproj.GenerateResource.cache
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\obj\Debug\Object_Learning.csproj.CoreCompileInputs.cache
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\obj\Debug\Object_Learning.csproj.CopyComplete
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\obj\Debug\Object_Learning.exe
+D:\React Implement\ReactContext\KRU_P_C\Object_Learning\obj\Debug\Object_Learning.pdb
